@@ -87,4 +87,4 @@ When one of these error occurs, the correct message is displayed on the **standa
 ![screen3](/screens/screen3.png)
 
 ## Credits
-This project was made in collaboration with [@reda-con](https://github.com/RemiDC) and [@kibotrel](https://github.com/kibotrel).
+This project was made in collaboration with [@nde-jesu](https://github.com/nde-jesu) and [@kibotrel](https://github.com/kibotrel).
